@@ -6,7 +6,8 @@ Wordpress 4.0
 Woocommmerce 2.0
 (Tested on that environment, but could work with older versions)
 
-### Explanation on this Gist
+### How it works?
+Explanation on this Gist:
 https://gist.github.com/oscb/884b7369bc3963fd5da5
 
 ## Future Work

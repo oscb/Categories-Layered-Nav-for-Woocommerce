@@ -1,4 +1,9 @@
 *.log
+
+// IDE
+.idea/
+
+// Wordpress
 .htaccess
 sitemap.xml
 sitemap.xml.gz
